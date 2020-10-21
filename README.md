@@ -1,6 +1,6 @@
 # awp-demo
 
-> My excellent Nuxt.js project
+> todolist project
 
 ## Build Setup
 
