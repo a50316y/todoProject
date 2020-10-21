@@ -27,8 +27,6 @@
           
        
     </div>
-    <button @click="askMom()">ask moms</button>   
-    <Test></Test> 
 </div>
 </template>
 
