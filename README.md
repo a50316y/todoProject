@@ -1,4 +1,4 @@
-# awp-demo
+# todolist-demo
 
 > todolist project
 
