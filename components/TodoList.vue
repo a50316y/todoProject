@@ -8,9 +8,6 @@
       </todo-item>
     </transition-group>
 
-
-    
-
     <div class="extra-container">
       <todo-check-all :anyremaining="anyremaining" @checkallchanged="checkAllTodos"></todo-check-all>
       <todo-items-remaining :remaining="remaining"></todo-items-remaining>
